@@ -1,0 +1,12 @@
+Input1 : 
+4 2 4 5 6
+
+Output1 : 
+17
+
+
+Input2 : 
+5 2 1 2 5 2 1 2 5
+
+Output2 : 
+8
